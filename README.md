@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 cybersecurity Projects:</h2>
 
-  - [Active Directory Homelab](https://github.com/Ngvvast/Weather-Api.git)
+  - [Weather Api](https://github.com/Ngvvast/Weather-Api.git)
 <h2>📺 Certifications</h2>
 
 - [Google Cybercecurity comp1 ] 
